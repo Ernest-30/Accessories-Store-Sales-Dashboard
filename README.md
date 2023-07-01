@@ -6,4 +6,4 @@ The datasets provided were in 2 different excel files; Orders data (6 Columns) a
 
 I carried out Data cleaning, manuplation and modelling in excel using; Vlookup to join both datasets,I created additional date columns using the Text and date function, I alsocarried out columns standardization and data formatting.
 
-I aggregated the final dataset into tables using the pivot table function which was used in creating the Dashboard.
+I aggregated the final dataset into tables using the pivot table function which was used in creating the [Dashboard](https://github.com/Ernest-30/Accessories-Store-Sales-Dashboard/blob/main/Accessories%20Store%20Sales%20Data.xlsx).
